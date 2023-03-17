@@ -1,0 +1,33 @@
+body {
+    background-image: url("tri1.png");
+}
+.pic1 {
+    border: 5px solid #171717;
+}
+.spacer {
+height: 60px;
+}
+.bod {
+    width: 1000px;
+    background-color: #171717;
+}
+p {
+    color: #DFDFDF;
+    font-size: 30px;
+}
+a {
+    font-size: 30px;
+    text-decoration: none;
+    color: #DFDFDF;
+}
+.ascii {
+    background-color: #171717;
+    width: 700px;
+    color: #DFDFDF;
+    font-size: 20px;
+}
+.vi {
+width: 990px;
+
+border: 5px solid #171717;
+}
